@@ -16,6 +16,10 @@ for formatting. Add code documentation using SCSS comments.
 - To run the Project Download and install VS Code.
 - Install Node.js Install Npm sass
 
-Mansi Umakant Dandgaval dandgaval.m@northeastern.edu
+## Authors
+
+- [mansiDandgaval](https://github.com/mansiDandgaval)
+
+
 
 
